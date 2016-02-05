@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "defaultcss": "^1.1.1",
+    "doc-js": "^1.3.1",
     "fastn": "^2.5.2",
     "laidout": "^1.0.0",
     "slabs": "^2.0.4"
